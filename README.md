@@ -45,6 +45,7 @@ Building and fine-tuning a vision-language model (VLM) to answer questions about
 
 ## Natural Language Processing
 Projects focused on sentiment analysis using the Rotten Tomatoes movie review dataset. Implemented in PyTorch and Python, starting from classical machine learning methods (Perceptron and Logistic Regression with unigram and bigram features) through to modern neural architectures.
+
 Explored feature engineering (bag-of-words, improved n-gram representations), sparse vectorization, and optimization techniques. Later assignments extended to deep learning with feedforward neural networks and GloVe word embeddings, implementing a Deep Averaging Network and experimenting with generalization to noisy data (e.g., misspellings).
 - **Skills:** NLP, feature engineering, sentiment analysis  
 
