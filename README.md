@@ -1,7 +1,7 @@
 # AI Projects
 
 Selected projects from my MSc. 
-Code is private due to policy, however access to all private repositories and code can be made available upon request. Below are summaries, methods, and results. 
+Code is private due to policy, however access to all private repositories and code can be made available upon request. Below are summaries and methods I used. 
 All projects are implemented in Python & PyTorch.
 
 ## Deep Learning
